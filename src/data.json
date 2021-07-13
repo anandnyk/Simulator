@@ -1,0 +1,66 @@
+{
+    "gps" : "78 78 22 22 0F 0C 1D 02 33 05 C9 02 7A C8 18 0C 46 58 60 00 14 00 01 CC 00 28 7D 00 1F 71 00 00 01 00 08 20 86 0D 0A",
+
+    "range":[
+        {
+            "title": "Date Time",
+            "length": 2
+        },
+        {
+            "title": "Quantity of GPS information satellites",
+            "length": 1
+        },
+        {
+            "title": "Latitude",
+            "length": 4
+        },
+        {
+            "title": "Longitude",
+            "length": 4
+        },
+        {
+            "title": "Speed",
+            "length": 1
+        },
+        {
+            "title": "Course, Status",
+            "length": 2
+        },
+        {
+            "title": "MCC",
+            "length": 2
+        },
+        {
+            "title": "MNC",
+            "length": 1
+        },
+        {
+            "title": "LAC",
+            "length": 2
+        },
+        {
+            "title": "Cell ID",
+            "length": 3
+        },
+        {
+            "title": "ACC",
+            "length": 1
+        },
+        {
+            "title": "Data Upload Mode",
+            "length": 1   
+        },
+        {
+            "title": "GPS Real-time Re-upload",
+            "length": 1
+        },
+        {
+            "title": "Mileage",
+            "length": 4
+        },
+        {
+            "title": "Serial Number",
+            "length": 2
+        }
+    ]
+}
